@@ -55,7 +55,7 @@ Help farmers grow food while making sustainable decisions in their farming opera
 
 ---
 
-> [Email us](mailto:hi@valinor.earth). There are humans ready to reply and answer your questions.
+> [Email us](mailto:hello@valinor.earth). There are humans ready to reply and answer your questions.
 
 
 [//]: # Footnotes
